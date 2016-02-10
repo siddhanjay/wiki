@@ -910,6 +910,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Fort Dodge](https://www.facebook.com/groups/free.code.camp.fort.dodge.iowa/)
     - [Sioux City](https://www.facebook.com/groups/free.code.camp.sioux.city/)
   - Kansas
+    - [Coldwater](https://www.facebook.com/groups/902856589827721/)
     - [Kansas City](https://www.facebook.com/groups/free.code.camp.kansascity/)
     - [Lawrence](https://www.facebook.com/groups/free.code.camp.lawrence)
     - [Wichita](https://www.facebook.com/groups/free.code.camp.wichita/)
