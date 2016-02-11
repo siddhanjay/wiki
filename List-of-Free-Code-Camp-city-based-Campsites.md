@@ -287,6 +287,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Bodensee](https://www.facebook.com/groups/free.code.camp.bodensee/)
   - [Braunschweig](https://www.facebook.com/groups/free.code.camp.braunschweig/)
   - [Chemnitz](https://www.facebook.com/groups/free.code.camp.chemnitz/)
+  - [Dresden](https://www.facebook.com/groups/766727883464168/)
   - [Flensburg](https://www.facebook.com/groups/free.code.camp.flensburg.germany/)
   - [Frankfurt](https://www.facebook.com/groups/free.code.camp.frankfurt.main/)
   - [Göttingen](https://www.facebook.com/groups/free.code.camp.goettingen/)
