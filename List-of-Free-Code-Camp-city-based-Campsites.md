@@ -776,6 +776,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Tuscaloosa](https://www.facebook.com/groups/free.code.camp.tuscaloosa/)
   - Alaska
     - [Anchorage](https://www.facebook.com/groups/free.code.camp.anchorage/)
+    - [Juneau](https://www.facebook.com/groups/1705836722996209/)
   - Arizona
     - [Flagstaff](https://www.facebook.com/groups/free.code.camp.northern.arizona/)
     - [Maricopa](https://www.facebook.com/groups/free.code.camp.maricopa.arizona/)
