@@ -79,6 +79,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Boa Vista](https://www.facebook.com/groups/free.code.camp.boa.vista/)
   - [Brasilia](https://www.facebook.com/groups/free.code.camp.brasilia/)
   - [Brotas](https://www.facebook.com/groups/free.code.camp.brotas.sp)
+  - [Campina Grande](https://www.facebook.com/groups/907676752679032/)
   - [Campinas](https://www.facebook.com/groups/free.code.camp.campinas/)
   - [Campo Grande](https://www.facebook.com/groups/768732203272622/)
   - [Caxias do Sul](https://www.facebook.com/groups/free.code.camp.caxias.do.sul/)
@@ -197,6 +198,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [San Pedro](https://www.facebook.com/groups/free.code.camp.costa.rica.san.pedro/)
 - Croatia
   - [Karlovac](https://www.facebook.com/groups/free.code.camp.karlovac/)
+  - [Rijeka](https://www.facebook.com/groups/542662595902378/)
   - [Zagreb](https://www.facebook.com/groups/free.code.camp.zagreb/)
 - Cuba
   - [Havana](https://www.facebook.com/groups/free.code.camp.havana/)
@@ -1055,6 +1057,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Portland](https://www.facebook.com/groups/free.code.camp.portland/)
     - [Redmond](https://www.facebook.com/groups/free.code.camp.remond.oregon/)
   - Pennsylvania
+    - [Bethlehem](https://www.facebook.com/groups/216683128680444/)
     - [Bushkill](https://www.facebook.com/groups/Free.Code.Camp.Bushkill.PA/)
     - [Harrisburg](https://www.facebook.com/groups/free.code.camp.harrisburg.pa/)
     - [Lehighton](https://www.facebook.com/groups/free.code.camp.lehighton.pa/)
